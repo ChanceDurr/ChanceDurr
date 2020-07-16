@@ -1,1 +1,1 @@
-![Accurate Graph](/accurate_graph.png)
+![Accurate Graph](/accurategraph.png)
